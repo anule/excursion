@@ -1,0 +1,8 @@
+* {
+  background-color: #000;
+}
+
+header, .main {
+  text-align: center;
+  margin: auto;
+}
